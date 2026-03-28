@@ -6,6 +6,8 @@ Projet Solaris is a personal pentesting lab designed and built from scratch to s
 
 The project was created as a final-year cybersecurity project with the objective of building a complete lab, integrating multiple virtual machines, simulating attacks, and documenting the methodology used.
 
+This project simulates a real-world internal pentest scenario starting from zero access.
+
 ## Main Objectives
 
 - Build a virtualized pentesting lab from scratch
@@ -47,6 +49,26 @@ This repository contains a structured summary of the Solaris project:
 
 This repository is a public project summary based on my final-year work.  
 Full documentation is available upon request.
+
+## Skills Demonstrated
+
+- Active Directory deployment and management
+- Network enumeration and reconnaissance (Nmap)
+- LLMNR/NBT-NS poisoning attacks (Responder)
+- Hash capturing and password cracking (Hashcat)
+- Remote access exploitation (RDP)
+- Privilege escalation techniques
+- Attack path methodology (based on real pentesting workflow)
+- Documentation and reporting of security findings
+
+## Tools Used
+
+- Nmap
+- Responder
+- Hashcat
+- Kali Linux
+- Proxmox
+- Active Directory
 
 ## Screenshots
 

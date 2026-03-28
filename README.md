@@ -48,6 +48,17 @@ This repository contains a structured summary of the Solaris project:
 This repository is a public project summary based on my final-year work.  
 Full documentation is available upon request.
 
+## Screenshots
+
+### Lab Overview
+![Lab Overview](screenshots/lab-overview.png)
+
+### Active Directory
+![Active Directory](screenshots/active-directory.png)
+
+### Attack Scenario
+![Attack Scenario](screenshots/attack-scenario.png)
+
 ## Author
 
 Sabri Ziani
